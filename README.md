@@ -1,9 +1,8 @@
 # Game-Of-Thrones-Sentiment-Analysis-using-Twitter-data
-
-![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/foram/Desktop/TableauDashboardGOT.png?version%3D1685465531578)
+![TableauDashboardGOT](https://github.com/forum-bhatt/Game-of-Thrones-Sentiment-Analysis-using-Twitter-Data/assets/90527629/99887ae6-b2dd-4561-948e-baa467f80bb0)
 
 ## Getting Started
-Welcome to my Getting Started Guide. 
+Welcome to my Getting Started Guide
 
 ## 🔑Prerequisites
 
@@ -76,6 +75,3 @@ or
 Spyder
 ```
 ## 👏And it's done!
-
-- <details> <summary> 💬 Problem Solver. Passion Catalyst. Change Maker. Love simulating conversations especially if done over beer. Feel free to contact in case of any query or to collaborate to work on ML projects😎 </summary> <a href="https://wa.me/919428037236" target="blank"><img align="center" src="https://github.com/ynpreet/Ynpreet/blob/main/images/5ae21cc526c97415d3213554.png" width="40x" /></a>
-</details>
